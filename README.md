@@ -1,6 +1,6 @@
 # Document-Comaprison-Using-Florence-2
 ## Requirement File
-numpy 
+numpy__
 matplotlib 
 opencv-python 
 Pillow 
